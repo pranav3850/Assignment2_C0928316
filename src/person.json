@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "firstName": "prnv",
+    "lastName": "Goswami",
+    "age": 28,
+    "gender": "Male"
+  },
+  {
+    "id": "2",
+    "firstName": "Anant",
+    "lastName": "Sirsath",
+    "age": 25,
+    "gender": "Male"
+  },
+  {
+    "id": "3",
+    "firstName": "Palak",
+    "lastName": "Shah",
+    "age": 27,
+    "gender": "Female"
+  }
+]
